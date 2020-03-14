@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f3ef0f4-f8f5-4745-8a97-85332896104c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="1_d_linear_regression" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Z7XghB9HY9HjHV0lqE9ftgIbex" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../course_linear_regression" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lr_poly">
+    <configuration name="lr_1d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1_d_linear_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lr_1d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lr_2d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1_d_linear_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lr_2d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lr_poly" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1_d_linear_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lr_poly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1_d_linear_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lr_poly" />
+        <item itemvalue="Python.lr_2d" />
+        <item itemvalue="Python.moore" />
+        <item itemvalue="Python.lr_1d" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3ef0f4-f8f5-4745-8a97-85332896104c" name="Default Changelist" comment="" />
+      <created>1584191219023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584191219023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="412" key="#Inspections" timestamp="1584191354213">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="760" y="412" key="#Inspections/65.24.2191.1480@65.24.2191.1480" timestamp="1584191354212" />
+    <state x="760" y="412" width="800" height="727" key="#Intentions" timestamp="1584205427609">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="760" y="412" width="800" height="727" key="#Intentions/65.24.2191.1480@65.24.2191.1480" timestamp="1584205427609" />
+    <state x="948" y="509" key="FileChooserDialogImpl" timestamp="1584208015685">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="948" y="509" key="FileChooserDialogImpl/65.24.2191.1480@65.24.2191.1480" timestamp="1584208015685" />
+    <state width="2168" height="535" key="GridCell.Tab.0.bottom" timestamp="1584208017859">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.bottom/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017859" />
+    <state width="2168" height="535" key="GridCell.Tab.0.center" timestamp="1584208017858">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.center/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017858" />
+    <state width="2168" height="535" key="GridCell.Tab.0.left" timestamp="1584208017858">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.left/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017858" />
+    <state width="2168" height="535" key="GridCell.Tab.0.right" timestamp="1584208017858">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.right/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017858" />
+    <state width="2168" height="535" key="GridCell.Tab.1.bottom" timestamp="1584208017859">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.bottom/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017859" />
+    <state width="2168" height="535" key="GridCell.Tab.1.center" timestamp="1584208017859">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.center/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017859" />
+    <state width="2168" height="535" key="GridCell.Tab.1.left" timestamp="1584208017859">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.left/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017859" />
+    <state width="2168" height="535" key="GridCell.Tab.1.right" timestamp="1584208017859">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.right/65.24.2191.1480@65.24.2191.1480" timestamp="1584208017859" />
+    <state x="654" y="386" key="SettingsEditor" timestamp="1584191679367">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="654" y="386" key="SettingsEditor/65.24.2191.1480@65.24.2191.1480" timestamp="1584191679367" />
+    <state x="823" y="342" key="search.everywhere.popup" timestamp="1584195222612">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="823" y="342" key="search.everywhere.popup/65.24.2191.1480@65.24.2191.1480" timestamp="1584195222612" />
+  </component>
+</project>
