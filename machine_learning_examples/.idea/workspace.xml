@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4200744b-ea79-47be-977b-9b7db38b10b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/linear_regression_class/data_1d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression_class/data_1d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_regression_class/generate_1d.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression_class/generate_1d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistic_regression_class/logistic_xor.py" beforeDir="false" afterPath="$PROJECT_DIR$/logistic_regression_class/logistic_xor.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGu9npI7SEgdv57VjmieDbuE04" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../course_logistic_regression" />
+  </component>
+  <component name="RunManager" selected="Python.logistic_xor">
+    <configuration name="l1_regularization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning_examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logistic_regression_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic_regression_class/l1_regularization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_xor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning_examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logistic_regression_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic_regression_class/logistic_xor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning_examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ann_logistic_extra" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ann_logistic_extra/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logistic_xor" />
+        <item itemvalue="Python.l1_regularization" />
+        <item itemvalue="Python.process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4200744b-ea79-47be-977b-9b7db38b10b4" name="Default Changelist" comment="" />
+      <created>1584477602423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584477602423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="948" y="509" key="FileChooserDialogImpl" timestamp="1584477743806">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="948" y="509" key="FileChooserDialogImpl/65.24.2191.1480@65.24.2191.1480" timestamp="1584477743806" />
+    <state width="2168" height="535" key="GridCell.Tab.0.bottom" timestamp="1584721920841">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.bottom/65.24.2191.1480@65.24.2191.1480" timestamp="1584721920841" />
+    <state width="2168" height="535" key="GridCell.Tab.0.center" timestamp="1584721920840">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.center/65.24.2191.1480@65.24.2191.1480" timestamp="1584721920840" />
+    <state width="2168" height="535" key="GridCell.Tab.0.left" timestamp="1584721920839">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.left/65.24.2191.1480@65.24.2191.1480" timestamp="1584721920839" />
+    <state width="2168" height="535" key="GridCell.Tab.0.right" timestamp="1584721920840">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.0.right/65.24.2191.1480@65.24.2191.1480" timestamp="1584721920840" />
+    <state width="2168" height="535" key="GridCell.Tab.1.bottom" timestamp="1584721921673">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.bottom/65.24.2191.1480@65.24.2191.1480" timestamp="1584721921673" />
+    <state width="2168" height="535" key="GridCell.Tab.1.center" timestamp="1584721921672">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.center/65.24.2191.1480@65.24.2191.1480" timestamp="1584721921672" />
+    <state width="2168" height="535" key="GridCell.Tab.1.left" timestamp="1584721921672">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.left/65.24.2191.1480@65.24.2191.1480" timestamp="1584721921672" />
+    <state width="2168" height="535" key="GridCell.Tab.1.right" timestamp="1584721921673">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state width="2168" height="535" key="GridCell.Tab.1.right/65.24.2191.1480@65.24.2191.1480" timestamp="1584721921673" />
+    <state x="821" y="579" key="com.intellij.ide.util.TipDialog" timestamp="1584477697903">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="821" y="579" key="com.intellij.ide.util.TipDialog/65.24.2191.1480@65.24.2191.1480" timestamp="1584477697903" />
+    <state x="823" y="342" key="search.everywhere.popup" timestamp="1584477611226">
+      <screen x="65" y="24" width="2191" height="1480" />
+    </state>
+    <state x="823" y="342" key="search.everywhere.popup/65.24.2191.1480@65.24.2191.1480" timestamp="1584477611226" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/logistic_regression_class/logistic_xor.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/logistic_regression_class/logistic_xor.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
